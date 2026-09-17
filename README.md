@@ -3,7 +3,8 @@
 (updating...)
 + Lecture 3 - Pruning I : https://hackmd.io/@unshun0120/Sy4aQi8tfe
 + Lecture 4 - Pruning II : https://hackmd.io/@unshun0120/BJj_HJOFzx
-+ Lecture 5 - Quantization I : https://hackmd.io/@unshun0120/HkiVpg_tfe  
++ Lecture 5 - Quantization I : https://hackmd.io/@unshun0120/HkiVpg_tfe
++ Lecture 6 - Quantization II : https://hackmd.io/@unshun0120/HkkYoEFKze
 
 ## Lab5 Debug
 ### 1. 執行./evaluate.sh reference 如果出現以下錯誤 :   
