@@ -1,4 +1,6 @@
 # 2024-MIT6.5940-TinyML-and-Efficient-Deep-Learning-Computing
++ Course website : https://hanlab.mit.edu/courses/2024-fall-65940
+
 ## Simple Notes (in Chinese)
 (updating...)
 + Lecture 3 - Pruning I : https://hackmd.io/@unshun0120/Sy4aQi8tfe
