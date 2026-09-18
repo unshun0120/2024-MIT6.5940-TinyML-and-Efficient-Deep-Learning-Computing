@@ -7,7 +7,8 @@
 + Lecture 4 - Pruning II : https://hackmd.io/@unshun0120/BJj_HJOFzx
 + Lecture 5 - Quantization I : https://hackmd.io/@unshun0120/HkiVpg_tfe
 + Lecture 6 - Quantization II : https://hackmd.io/@unshun0120/HkkYoEFKze
-+ Lecture 7 - Network Architecture Search I : https://hackmd.io/@unshun0120/rym85StKzl
++ Lecture 7 - Neural Architecture Search I : https://hackmd.io/@unshun0120/rym85StKzl
++ Lecture 8 - Neural Architecture Search II : https://hackmd.io/@unshun0120/r1NP-Ittfe
  
 ## Lab5 Debug
 ### 1. 執行./evaluate.sh reference 如果出現以下錯誤 :   
