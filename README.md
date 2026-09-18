@@ -9,6 +9,7 @@
 + Lecture 6 - Quantization II : https://hackmd.io/@unshun0120/HkkYoEFKze
 + Lecture 7 - Neural Architecture Search I : https://hackmd.io/@unshun0120/rym85StKzl
 + Lecture 8 - Neural Architecture Search II : https://hackmd.io/@unshun0120/r1NP-Ittfe
++ Lecture 9 - Knowledge Distillation : https://hackmd.io/@unshun0120/S1hwz79YGl
  
 ## Lab5 Debug
 ### 1. 執行./evaluate.sh reference 如果出現以下錯誤 :   
