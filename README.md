@@ -10,6 +10,11 @@
 + Lecture 7 - Neural Architecture Search I : https://hackmd.io/@unshun0120/rym85StKzl
 + Lecture 8 - Neural Architecture Search II : https://hackmd.io/@unshun0120/r1NP-Ittfe
 + Lecture 9 - Knowledge Distillation : https://hackmd.io/@unshun0120/S1hwz79YGl
++ Lecture 10 - MCUNet and TinyML : https://hackmd.io/@unshun0120/H1mUZu9tGx
++ Lecture 11 - TinyEngine : https://hackmd.io/@unshun0120/HkkBrlntfl
++ Lecture 12 - Transformer and LLM : https://hackmd.io/@unshun0120/HkVR-zntzl
++ Lecture 13 - LLM Deployment : https://hackmd.io/@unshun0120/Byl0SE2tze
++ Lecture 14 - LLM Post-Training : https://hackmd.io/@unshun0120/SyDqkShKzx
  
 ## Lab5 Debug
 ### 1. 執行./evaluate.sh reference 如果出現以下錯誤 :   
